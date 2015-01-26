@@ -1,4 +1,4 @@
-# Majed Alenezi
+# Hey There
 
 This is a sample application doing through practicing
 
