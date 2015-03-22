@@ -1,15 +1,15 @@
-@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
-
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
 $body-bg: #ecf0f1;
+$font-family-sans-serif:                'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-bg: white;
-$font-family: 'Droid Arabic Kufi', serif;
 $navbar-default-link-color: #3498db;
 $navbar-height: 45px;
-$brand-primary: #e74c3c;
 $jumbotron-bg: white;
 $text-color: #7f8c8d;
 $navbar-default-brand-color: #e74c3c;
+
+
 @import 'bootstrap';
 
 
